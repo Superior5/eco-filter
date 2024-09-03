@@ -3,5 +3,6 @@
     <slot />
 
   </div>
+  <LayoutFooter/>
 </template>
 
