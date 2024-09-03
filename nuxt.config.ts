@@ -21,10 +21,10 @@ export default defineNuxtConfig({
     apikey: '00efa97b-583d-4611-aa38-6b74d510bc7e',
   },
   app: {
-    baseURL: '/office/MKAdmin',
+    baseURL: '/',
     head: {
       link: [{ rel: 'icon', type: 'image/png', href: '/cinema-park/favicon.ico' }],
-      title: 'Админ панель'
+      title: 'Hobiotech'
     }
   },
   colorMode: {
