@@ -11,7 +11,9 @@
     <div class="border-t-1 pt-20px border-black border-dashed bg-white font-mulish w-full h-full flex flex-col items-center">
       <div class="max-w-330px">
         <p class="pl-65px">при поддержке</p>
-        <img class="w-330px my-10px" src="/public/footer/image.png" alt="">
+        <a href="http://fasie.ru" target="_blank">
+          <img class="w-330px my-10px" src="/public/footer/image.png" alt="">
+        </a>
         <p class="pl-65px">В рамках программы
           "Студенческий стартап"</p>
       </div>
